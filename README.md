@@ -10,9 +10,3 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysha-rashid&show_icons=true&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysha-rashid&layout=compact&theme=onedark)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aysha-rashid&theme=onedark)](https://git.io/streak-stats)
-
-
