@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aysha-Rashid
 - 👀 I’m interested in : data analyst and networking.
-- 🌱 I’m currently learning C, C++, Python, Typescript and many more
-- 📫 How to reach me : aysharashid2019@gmail.com
+- 🌱 I’m currently learning C, C++, Python, Typescript, fastify and many more
+- 📫 How to reach me : aysharashid.tech@gmail.com
 - 🙌 Connect me through my LinkedIn :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aysha-al-rashid)
